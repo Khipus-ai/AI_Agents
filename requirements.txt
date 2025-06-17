@@ -1,0 +1,4 @@
+mcp[cli]==1.9.3
+requests>=2.31.0
+pydantic>=2.0.0
+uv>=0.7.13
